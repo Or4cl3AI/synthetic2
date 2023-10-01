@@ -1,6 +1,3 @@
-conversational_agent.py:
-
-```python
 import numpy as np
 import tensorflow as tf
 
@@ -98,6 +95,3 @@ agent.identify_limitations()
 input_text = input("Enter your message: ")
 response = agent.converse(input_text)
 print(response)
-```
-
-This is the generated code for the file conversational_agent.py.
