@@ -1,11 +1,8 @@
-Shared dependencies between the generated files:
+the app is: a social media platform
 
-1. conversational_agent.py:
-   - numpy
-   - tensorflow
+the files we have decided to generate are: [user.js, post.js, comment.js]
 
-2. readme.md: No shared dependencies.
-
-3. requirements.txt:
-   - numpy
-   - tensorflow
+Shared dependencies:
+- user.js: User, getUser, updateUser
+- post.js: Post, createPost, deletePost
+- comment.js: Comment, addComment, deleteComment
