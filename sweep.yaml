@@ -12,7 +12,7 @@ gha_enabled: True
 # Example:
 #
 # description: sweepai/sweep is a python project. The main api endpoints are in sweepai/api.py. Write code that adheres to PEP8.
-description: ''
+description: 'Build a multi-modal conversational AI agent with emotional intelligence, contextual awareness, cognitive behavioral intelligence, transfer learning,reinforcement learning, logic, reasoning, belief-desire-intention,NLP, NLU, NLG, and self-awareness'
 
 # This sets whether to create pull requests as drafts. If this is set to True, then all pull requests will be created as drafts and GitHub Actions will not be triggered.
 draft: False
